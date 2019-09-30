@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: plainwhite
 remote_theme: thelehhman/plainwhite-jekyll
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
 plainwhite:
   sitemap: true
